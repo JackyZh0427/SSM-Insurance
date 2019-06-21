@@ -1,1 +1,1 @@
-# SSM-Insurance
+Insurance SSM EasyUI MySQL
